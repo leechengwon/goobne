@@ -1,3 +1,4 @@
+![굽네치킨 프로젝트 스크린샷 (1)](https://github.com/leechengwon/goobne/assets/141094801/c06946f6-2d8d-4cd6-91af-37d77ce8dae2)
 > Target website: [굽네치킨 (2022, 웹어워드 코리아 생활브랜드부문 프랜차이즈분야 대상)](https://www.goobne.co.kr/index)
 
 - Period
