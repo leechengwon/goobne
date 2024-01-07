@@ -15,10 +15,10 @@
     - 페이지: 장바구니 UI
   - <a href="https://github.com/syon013" target="_blank">박요진</a>
     - 컴포넌트: SelectBox, Swiper, Header, Badge, Count, DropDown
-    - 페이지: 메인, 상세, 장바구니 기능
+    - 페이지: 메인, 상세
   - <a href="https://github.com/leechengwon" target="_blank">이청원</a>
-    - 컴포넌트: Nav, IconButton, Button, Loading
-    - 페이지: 로그인, 회원가입, 목록
+    - 컴포넌트: Nav, IconButton, Button, Loading , Swiper
+    - 페이지: 로그인, 회원가입, 목록 , 장바구니 기능 
 
 - Tech stacks
 
