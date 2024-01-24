@@ -5,8 +5,9 @@
 
   - 20231201 ~ 20231229
 
-- PageUrl
- - <a href="https://leechengwon.github.io/goobne/" target="_blank">굽으네 홈페이지</a>
+홈페이지 둘러보기
+<br/>
+  - <a href="https://leechengwon.github.io/goobne/">굽으네 홈페이지</a>
  
 - Developers & parts
 
