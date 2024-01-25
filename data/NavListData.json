@@ -8,7 +8,7 @@
     },
     {
       "id": 1,
-      "label": "주문하기",
+      "label": "메뉴보기",
       "open": false,
       "depth": [{ "depthLabel": "전체 ", "path": "/list" }]
     },
