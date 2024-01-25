@@ -1696,13 +1696,6 @@ Error generating stack: `+pt.message+`
 `,CartDetailWrap=st.section`
   width: 100%;
   padding-bottom: 80px;
-`;st.div`
-  width: 100%;
-`;st.h4`
-  ${FlexCenter$3};
-  margin-bottom: 40px;
-  font-size: 30px;
-  font-weight: 800;
 `;var _path$1;function _extends$2(){return _extends$2=Object.assign?Object.assign.bind():function(s){for(var o=1;o<arguments.length;o++){var a=arguments[o];for(var lt in a)Object.prototype.hasOwnProperty.call(a,lt)&&(s[lt]=a[lt])}return s},_extends$2.apply(this,arguments)}var SvgBadgePepperIcon=function(o){return reactExports.createElement("svg",_extends$2({xmlns:"http://www.w3.org/2000/svg",height:10,viewBox:"0 0 16 16"},o),_path$1||(_path$1=reactExports.createElement("path",{fill:"red",d:"M1.7.7C1.4 1.2.9 3.3.6 5.6c-.7 3.8-.5 4.3 2.9 7.3 3 2.6 4.4 3.1 7.3 2.9 4.4-.4 5.3-2.3 1.5-3.3-2.7-.7-2.8-.7-.5-1.6C13.1 10.4 14 9.2 14 8s.5-3.1 1.1-4.2c.9-1.6.8-1.9-.3-1.5-.7.2-1.2.9-1.1 1.5.2.6-.4.9-1.2.6-.8-.3-1.3-1.1-1.2-1.7.3-1.8-3.8-2-5.3-.2C4.2 4.6 2.7 4.4 3.5 2 4.1.1 2.6-.9 1.7.7zm8.9 3c1.2 1.8.3 4.3-1.7 4.3-1.7 0-.9-2 .9-2.1 1.6-.1 1.6-.2 0-.6-1-.2-1.8-.9-1.8-1.4 0-.6-.5-.7-1.2-.3-.7.4-.8.3-.4-.4 1-1.7 2.7-1.5 4.2.5z"})))};const Badge=({shape:s,size:o})=>jsxRuntimeExports.jsx(BadgeContainer,{shape:s,children:jsxRuntimeExports.jsxs(BadgeWrap$1,{shape:s,size:o,children:[s==="new"&&jsxRuntimeExports.jsx("span",{children:s}),s==="best"&&jsxRuntimeExports.jsx("span",{children:s}),s==="md"&&jsxRuntimeExports.jsx("span",{children:`${s}추천`}),s==="hot"&&jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment,{children:[jsxRuntimeExports.jsx("span",{children:`${s}`}),jsxRuntimeExports.jsx(SvgBadgePepperIcon,{})]})]})}),BADGE_LIST={new:{backgroundColor:"#ff0000",borderColor:"#ff0000",marginRight:"0"},best:{backgroundColor:"#ff7b5a",borderColor:"#ff7b5a",marginRight:"0"},md:{backgroundColor:"#ffaf28",borderColor:"#ffaf28",marginRight:"0"},hot:{backgroundColor:"#000",borderColor:"#000",marginRight:"4px"}},BADGE_SIZE={small:{padding:"1px 3px",borderRadius:"2px"},large:{padding:"4px 6px",borderRadius:"4px"}},FlexCenter$2=nt`
   display: flex;
   justify-content: center;
