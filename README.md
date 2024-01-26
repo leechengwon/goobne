@@ -22,7 +22,8 @@
     - 페이지: 메인, 상세
   - <a href="https://github.com/leechengwon" target="_blank">이청원</a>
     - 컴포넌트: Nav, IconButton, Button, Loading , Swiper
-    - 페이지: 로그인, 회원가입, 목록 , 장바구니 기능 
+    - 페이지: 로그인, 회원가입, 목록 , 장바구니 기능
+    - 2024.01.25 반응형을 리팩토링하여 적용하였습니다.
 
 - Tech stacks
 
